@@ -169,9 +169,9 @@ Pengembangan yang dapat dilakukan pada proyek ini:
 
 📧 Email : **nadhifminan@gmail.com**
 
-💼 LinkedIn : *LinkedIn: linkedin.com/in/nadhif-fajrul-minan-9b4088251/*
+💼 LinkedIn : *linkedin.com/in/nadhif-fajrul-minan-9b4088251/*
 
-💻 GitHub : *Portfolio: nadhifminan.github.io/Portofolio | GitHub: github.com/nadhifminan*
+💻 *Portfolio: nadhifminan.github.io/Portofolio | GitHub: github.com/nadhifminan*
 
 ---
 
